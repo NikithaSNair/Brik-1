@@ -130,6 +130,19 @@ body {
     font-weight: bold;
     cursor: pointer;
 }
+.shop-button-goodies {
+    background-color: #B6D4BA; /* Light green */
+    color: #111;
+}
+.shop-button-pantry {
+    background-color: #E7D2C4; /* Light peach */
+    color: #111;
+}
+
+.shop-button-bath {
+    background-color: #ffffff; /* White */
+    color: #111;
+}
 
 .two-column-text-section {
     display: flex;
